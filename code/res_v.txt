@@ -1,0 +1,36 @@
+0,net0_fc1,example_img0_0.01800.txt,verified(gt),verified(out)		Running time: 1.673
+1,net0_fc1,example_img1_0.05000.txt,verified(gt),verified(out)		Running time: 1.415
+2,net1_fc1,example_img0_0.07500.txt,verified(gt),verified(out)		Running time: 1.415
+3,net1_fc1,example_img1_0.07200.txt,verified(gt),verified(out)		Running time: 1.420
+4,net0_fc2,example_img0_0.09500.txt,verified(gt),verified(out)		Running time: 1.420
+5,net0_fc2,example_img1_0.08300.txt,verified(gt),verified(out)		Running time: 1.520
+6,net1_fc2,example_img1_0.07200.txt,verified(gt),verified(out)		Running time: 1.530
+7,net0_fc3,example_img0_0.07500.txt,verified(gt),verified(out)		Running time: 1.610
+8,net0_fc3,example_img1_0.08100.txt,verified(gt),verified(out)		Running time: 1.560
+9,net1_fc3,example_img0_0.06100.txt,verified(gt),verified(out)		Running time: 1.590
+10,net0_fc4,example_img0_0.03300.txt,verified(gt),verified(out)		Running time: 1.590
+11,net1_fc4,example_img1_0.01300.txt,verified(gt),verified(out)		Running time: 1.490
+12,net0_fc5,example_img1_0.01900.txt,verified(gt),verified(out)		Running time: 1.305
+13,net1_fc5,example_img0_0.08400.txt,verified(gt),verified(out)		Running time: 2.225
+14,net1_fc5,example_img1_0.07800.txt,verified(gt),verified(out)		Running time: 4.875
+15,net0_fc1,final_img5_0.01400.txt,verified(gt),verified(out)		Running time: 1.269
+16,net1_fc1,final_img2_0.09100.txt,verified(gt),verified(out)		Running time: 1.435
+17,net1_fc1,final_img9_0.05200.txt,verified(gt),verified(out)		Running time: 1.375
+18,net0_fc2,final_img6_0.08200.txt,verified(gt),verified(out)		Running time: 1.610
+19,net1_fc2,final_img2_0.15100.txt,verified(gt),verified(out)		Running time: 1.885
+20,net1_fc2,final_img9_0.15100.txt,verified(gt),verified(out)		Running time: 1.670
+21,net0_fc3,final_img0_0.15100.txt,verified(gt),verified(out)		Running time: 2.489
+22,net0_fc3,final_img3_0.15300.txt,verified(gt),verified(out)		Running time: 9.411
+23,net0_fc3,final_img9_0.12600.txt,verified(gt),verified(out)		Running time: 1.719
+24,net1_fc3,final_img2_0.07600.txt,verified(gt),verified(out)		Running time: 1.514
+25,net0_fc4,final_img2_0.02750.txt,verified(gt),verified(out)		Running time: 1.475
+26,net0_fc4,final_img9_0.03500.txt,verified(gt),verified(out)		Running time: 1.490
+27,net1_fc4,final_img8_0.01300.txt,verified(gt),verified(out)		Running time: 1.451
+28,net0_fc5,final_img2_0.03500.txt,verified(gt),verified(out)		Running time: 1.660
+29,net0_fc5,final_img6_0.02900.txt,verified(gt),verified(out)		Running time: 1.435
+30,net0_fc5,final_img9_0.02850.txt,verified(gt),verified(out)		Running time: 1.709
+31,net1_fc5,final_img3_0.09800.txt,verified(gt),verified(out)		Running time: 2.826
+32,net1_fc5,final_img6_0.03500.txt,verified(gt),verified(out)		Running time: 1.730
+true score: 33/33
+
+
